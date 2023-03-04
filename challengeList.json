@@ -1,3 +1,5 @@
 {
-  forever: "testChallenge"
+  "forever": [
+    "testChallenge"
+  ]
 }
