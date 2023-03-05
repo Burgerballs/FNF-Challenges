@@ -1,5 +1,6 @@
 function onUpdatePost(e)
-  if getProperty('health') <= 0.05 then
-    setProperty('health', getProperty('health') - (e / 10))
+  local health = getHealth()
+  if health <= 0.05 then
+    addHealth(e * 0.03)
   end
 end
