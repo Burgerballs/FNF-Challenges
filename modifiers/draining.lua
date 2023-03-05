@@ -1,7 +1,7 @@
-function onUpdatePost(e)
+function opponentNoteHit(membersIndex, noteData, noteType, isSustainNote)
   debugPrint('i work!!')
   local health = getHealth()
   if health < 0.05 then
-    addHealth(-(e * 0.3))
+    addHealth(-(0.02))
   end
 end
