@@ -1,6 +1,6 @@
 {
   "song": "thorns",
-  "difficulty": "hard",
+  "difficulty": 2,
   "modifier": "draining",
   "name": "Draining Thorns",
   "desc": "Beat Thorns while your health is draining!"
