@@ -1,6 +1,6 @@
 {
   "song": "south",
-  "difficulty": "hard",
+  "difficulty": 2,
   "modifier": "fast",
   "name": "Speedy Kids",
   "desc": "Beat South at 1.25x Speed!"
